@@ -16,5 +16,4 @@
 | Light | V1 | 0-100% | | In the roof of left wall inside |
 | Light | V1 | 0-100% | | In the roof of left wall inside |
 | Pump Motor | PM1 | On/Off |12-24V | water pump for "steam generation" | 
-
 | Field Box | LT1 | IP68 | | Box for all electronics |
