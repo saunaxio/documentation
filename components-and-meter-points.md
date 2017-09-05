@@ -7,7 +7,7 @@
 | Temperature | T1 | -40-+150C | | Left wall inside  |
 | Temperature | T2 | -40-+150C | | Concrete block below the stowe |
 | Temperature | T3 | -40-+250C | | In the Roof over the stowe |
-| Temperature | T3 | -40-+65C | | Air ventilation pipe |
+| Temperature | T4 | -40-+65C | | Air ventilation pipe |
 | Water Level | L1 | 30-100% | | Water level indicator |
 ### Other components
 
