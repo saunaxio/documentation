@@ -122,6 +122,19 @@ Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edusta
 |YVA0002| Palvelun täytyy toimia Windows Phonessa | totetutus |  "ASAP"-tuotantotiimi | P2 |
 |YVA0003| Palvelun täytyy toimia Windows 95:ssa, koska johtajalla on moinen koneessaan! | totetuts |  "ASAP"-tuotantotiimi | P5 |
 
+
+
+|     | TBD
+RE100 | Järjestelmä toimiii rajoitetusti tarvittaessa ilman internet-yhteyttä (3g/WLAN)
+RE200 | Saunan löylyä voidaan annostella kytkimen avulla
+RE201 | Löylyn annostelu voidaan asettaa automaattiseksi
+RE300 | Saunan löylyä voidaan annostella äänikomentojen avulla
+RE400 | Käyttäjä voi tiedustella lämpötilaa äänikomennon avulla
+RE401 | Käyttäjä voi tiedustella kellonaikaa äänikomennon avulla
+RE402 | Käyttäjä voi tiedustella suhteellisenkosteuden tason äänikomennon avulla
+RE403 - Käyttäjä voi tiedustella suhteellisenkosteuden tason äänikomennon avulla
+
+
   * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
 
